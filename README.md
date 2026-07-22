@@ -45,7 +45,6 @@ Encryption at rest and in transit.
 Optional local-only processing for sensitive content.
 Audit logs for automation actions and policy overrides.
 Role-based access control for team deployments.
-Extensibility
 Plugin system for custom automations and integrations.
 Webhooks and API for enterprise workflows.
 SDKs for Python and Node to create tailor-made commands.
